@@ -90,9 +90,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="458.87411"
-     inkscape:cy="425.98424"
+     inkscape:zoom="0.47454021"
+     inkscape:cx="433.21988"
+     inkscape:cy="524.63605"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -122,7 +122,7 @@
     <g
        id="g12908"
        transform="matrix(1.1036213,0,0,1.1036213,-38.787493,-52.425785)"
-       style="opacity:0.2">
+       style="opacity:0.1">
       <path
          sodipodi:nodetypes="cc"
          id="path3176"
@@ -2961,71 +2961,6 @@
          id="tspan4245">society as a whole. </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-63.928787"
-       y="647.49347"
-       id="text3897"
-       sodipodi:linespacing="125%"
-       transform="matrix(0.67018202,-0.74219678,0.74219678,0.67018202,0,0)"><tspan
-         sodipodi:role="line"
-         x="-63.928787"
-         y="647.49347"
-         id="tspan3212"
-         style="font-size:18px;font-weight:bold;-inkscape-font-specification:Sans Bold">Education</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text4291"
-       y="684.784"
-       x="250.8947"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"
-       transform="matrix(0.94025714,-0.34046515,0.34046515,0.94025714,0,0)"><tspan
-         style="font-size:18px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         id="tspan4293"
-         y="684.784"
-         x="250.8947"
-         sodipodi:role="line">Communication</tspan></text>
-    <text
-       transform="matrix(0.92820327,0.37207349,-0.37207349,0.92820327,0,0)"
-       xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="674.8866"
-       y="408.63754"
-       id="text4295"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="674.8866"
-         y="408.63754"
-         id="tspan4297"
-         style="font-size:18px;font-weight:bold;-inkscape-font-specification:Sans Bold">Collaboration</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text4299"
-       y="215.67691"
-       x="789.87561"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"
-       transform="matrix(0.73012806,0.68331034,-0.68331034,0.73012806,0,0)"><tspan
-         style="font-size:18px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         id="tspan4301"
-         y="215.67691"
-         x="789.87561"
-         sodipodi:role="line">Business</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="715.92322"
-       y="-349.01807"
-       id="text4303"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,1,-1,0,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan4305"
-         x="715.92322"
-         y="-349.01807"
-         style="font-weight:bold;-inkscape-font-specification:Sans Bold">Entertaiment</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="66"
        y="592.36218"
@@ -3048,5 +2983,70 @@
          x="-3.2001433"
          y="205.39754"
          style="font-size:144px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#b9271e;fill-opacity:1;font-family:Linux Biolinum Keyboard O;-inkscape-font-specification:Linux Biolinum Keyboard O Bold">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="719.12213"
+       y="-352.50098"
+       id="text14732"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan14734"
+         x="719.12213"
+         y="-352.50098"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold">Entertaiment</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text14740"
+       y="649.42902"
+       x="-79.546577"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       transform="matrix(0.64278761,-0.76604444,0.76604444,0.64278761,0,0)"><tspan
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+         y="649.42902"
+         x="-79.546577"
+         id="tspan14742"
+         sodipodi:role="line">Education</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text14744"
+       y="683.74005"
+       x="257.19318"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       transform="matrix(0.93969262,-0.34202014,0.34202014,0.93969262,0,0)"><tspan
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+         y="683.74005"
+         x="257.19318"
+         id="tspan14746"
+         sodipodi:role="line">Communication</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text14748"
+       y="45.874268"
+       x="816.5376"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       transform="matrix(0.57357644,0.81915204,-0.81915204,0.57357644,0,0)"><tspan
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+         y="45.874268"
+         x="816.5376"
+         id="tspan14750"
+         sodipodi:role="line">Bussiness</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text14752"
+       y="432.46872"
+       x="662.37427"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       transform="matrix(0.93969262,0.34202014,-0.34202014,0.93969262,0,0)"><tspan
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+         y="432.46872"
+         x="662.37427"
+         id="tspan14754"
+         sodipodi:role="line">Collaboration</tspan></text>
   </g>
 </svg>
