@@ -147,7 +147,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.47454021"
-     inkscape:cx="532.26312"
+     inkscape:cx="422.68336"
      inkscape:cy="524.63605"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -3107,33 +3107,29 @@
            x="499.70361"
            sodipodi:role="line">park</tspan></text>
     </g>
-    <g
-       id="g15196"
-       transform="translate(20,0)">
-      <text
-         sodipodi:linespacing="125%"
-         id="text4900-7"
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b9271e;fill-opacity:1;stroke:none;font-family:Sans"
+       x="630.4458"
+       y="363.98355"
+       id="text4900-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4902-0"
+         x="630.4458"
          y="363.98355"
-         x="610.4458"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           style="font-size:100px"
-           y="363.98355"
-           x="610.4458"
-           id="tspan4902-0"
-           sodipodi:role="line">.</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text4960"
+         style="font-size:100px;fill:#b9271e;fill-opacity:1">.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="554.00482"
+       y="364.93082"
+       id="text4960"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4962"
+         x="554.00482"
          y="364.93082"
-         x="534.00482"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           style="font-size:20px"
-           y="364.93082"
-           x="534.00482"
-           id="tspan4962"
-           sodipodi:role="line">Internet</tspan></text>
-    </g>
+         style="font-size:20px">Internet</tspan></text>
   </g>
 </svg>
