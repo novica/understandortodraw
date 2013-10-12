@@ -3,7 +3,7 @@ Understand or to draw
 
 A collection of svg files for http://understandortodraw.tumblr.com/. 
 
-Understand or to draw explores pop-culture and stereotypes in Macedonian in a thisisindexed.com style.
+Understand or to draw explores pop-culture and stereotypes in Macedonian in a http://www.thisisindexed.com style.
 
 Folder mozilla-manifesto contains svgs of visual abstractions of the 10 principles of the Mozilla Manifesto (https://www.mozilla.org/en-US/about/manifesto/)
 
