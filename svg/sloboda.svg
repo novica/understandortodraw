@@ -175,7 +175,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.47454021"
-     inkscape:cx="155.26585"
+     inkscape:cx="530.36578"
      inkscape:cy="423.10446"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -2992,7 +2992,7 @@
          style="font-size:24px">0</tspan></text>
     <path
        sodipodi:type="arc"
-       style="fill:none;stroke:#0000ff;stroke-width:3;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:none;stroke:#ff0000;stroke-width:3;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="path4603"
        sodipodi:cx="-324.52466"
        sodipodi:cy="498.14151"
@@ -3001,7 +3001,7 @@
        d="M -322.50916,198.91177 A 288.7005,299.23703 0 0 1 -35.824158,498.14151"
        sodipodi:start="4.7193703"
        sodipodi:end="6.2831853"
-       transform="translate(429.88981,379.42184)"
+       transform="matrix(-1.5595733,0,0,-1.5595733,119.7832,1113.186)"
        sodipodi:open="true" />
     <path
        sodipodi:nodetypes="ccccc"
@@ -3013,23 +3013,23 @@
        sodipodi:linespacing="125%"
        id="text5419"
        y="349.41882"
-       x="514.48822"
+       x="498.48822"
        style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
          y="349.41882"
-         x="514.48822"
+         x="498.48822"
          id="tspan5421"
          sodipodi:role="line">Слобода</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="166.78323"
+       x="132.78323"
        y="568.57831"
        id="text5423"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5425"
-         x="166.78323"
+         x="132.78323"
          y="568.57831">Страв</tspan></text>
   </g>
 </svg>
