@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9509718"
+     inkscape:zoom="0.3362193"
      inkscape:cx="222.15071"
-     inkscape:cy="295.81097"
+     inkscape:cy="533.75091"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -285,6 +285,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.25762509999999983;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.25762491000000010, 4.51524982000000019;stroke-dashoffset:0"
+       id="rect3508"
+       width="746.27887"
+       height="1055.6008"
+       x="-2.8454366"
+       y="2.5810249" />
     <g
        id="g12908"
        transform="matrix(1.1036213,0,0,1.1036213,-38.787493,-52.425785)"
