@@ -15,8 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="parite.svg"
-   inkscape:export-filename="/home/novica/projects/understand-or-to-draw/parite.png"
+   sodipodi:docname="makedonija.svg"
+   inkscape:export-filename="/home/novica/projects/understand-or-to-draw/makedonija.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <sodipodi:namedview
@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.3362193"
-     inkscape:cx="369.36854"
+     inkscape:cx="941.69333"
      inkscape:cy="486.98685"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -268,6 +268,32 @@
          style="fill:#d50000;fill-rule:evenodd;stroke:#d50000;stroke-width:1pt"
          transform="matrix(-0.4,0,0,-0.4,-4,0)" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5998-7"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <filter
+       inkscape:collect="always"
+       id="filter17169"
+       x="-0.13955006"
+       width="1.2791001"
+       y="-0.14406615"
+       height="1.2881323">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="9.3324103"
+         id="feGaussianBlur17171" />
+    </filter>
   </defs>
   <metadata
      id="metadata7">
@@ -3028,104 +3054,6 @@
          id="tspan3903"
          x="188.06656"
          y="902.09833" /></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Mend)"
-       d="m 102.98801,880.47615 573.05282,0"
-       id="path3100"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4500"
-       d="m 104.67171,880.20045 0,-573.05282"
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Mend)" />
-    <text
-       xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="526.13654"
-       y="914.17603"
-       id="text4892"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4894"
-         x="526.13654"
-         y="914.17603">Количина</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text20295"
-       y="54.374329"
-       x="-477.2963"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"
-       transform="matrix(0,-1,1,0,0,0)"><tspan
-         y="54.374329"
-         x="-477.2963"
-         sodipodi:role="line"
-         id="tspan20299">Перцепција</tspan><tspan
-         y="84.374329"
-         x="-477.2963"
-         sodipodi:role="line"
-         id="tspan5422">на вредност</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="85.345772"
-       y="901.69"
-       id="text23931"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan23933"
-         x="85.345772"
-         y="901.69"
-         style="font-size:24px">0</tspan></text>
-    <path
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0"
-       id="path5417"
-       d="m -197.93698,1187.9237 0,0 m 310.33361,-313.35323 494.14804,-499.20964 -9.72077,9.66119"
-       style="fill:none;stroke:#000000;stroke-width:3.23030901000000004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.23030909999999993, 6.46061820999999981;stroke-dashoffset:0" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text5419"
-       y="955.11499"
-       x="86.174194"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"><tspan
-         y="955.11499"
-         x="86.174194"
-         sodipodi:role="line"
-         id="tspan5426">А - Недофатливата линија на рационалноста</tspan><tspan
-         y="985.11499"
-         x="86.174194"
-         sodipodi:role="line"
-         id="tspan6312">Б - Заработување на пари</tspan><tspan
-         y="1015.115"
-         x="86.174194"
-         sodipodi:role="line"
-         id="tspan6314">В - Трошење на пари</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="614.20166"
-       y="369.57648"
-       id="text5423"
-       sodipodi:linespacing="125%"
-       inkscape:transform-center-x="26.658085"><tspan
-         sodipodi:role="line"
-         x="614.20166"
-         y="369.57648"
-         id="tspan9658">А</tspan></text>
-    <path
-       style="fill:none;stroke:#0000ff;stroke-width:3.23000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m -197.93698,1187.9237 0,0 M 112.39663,874.57047 C 275.5274,699.16649 596.39069,494.80718 726.42204,438.45419"
-       id="path5436"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
-    <path
-       sodipodi:nodetypes="cccc"
-       inkscape:connector-curvature="0"
-       id="path5438"
-       d="m -197.93698,1187.9237 0,0 M 112.39663,874.57047 C 281.71969,707.89893 459.64242,404.08484 524.52331,268.10213"
-       style="fill:none;stroke:#ff0000;stroke-width:3.22999999999999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -3138,40 +3066,127 @@
          x="618.31488"
          y="335.20105" /></text>
     <text
-       inkscape:transform-center-x="26.658085"
-       sodipodi:linespacing="125%"
-       id="text5446"
-       y="431.70096"
-       x="704.6355"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"><tspan
-         id="tspan5448"
-         y="431.70096"
-         x="704.6355"
-         sodipodi:role="line">Б</tspan></text>
-    <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="534.28345"
-       y="274.93643"
-       id="text5450"
-       sodipodi:linespacing="125%"
-       inkscape:transform-center-x="26.658085"><tspan
-         sodipodi:role="line"
-         x="534.28345"
-         y="274.93643"
-         id="tspan5452">В</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="217.77966"
-       y="150.12721"
-       id="text6316"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="370.08435"
+       y="183.29292"
+       id="text3879"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan6318"
-         x="217.77966"
-         y="150.12721"
-         style="font-size:40px">Кај се парите?</tspan></text>
+         x="370.08435"
+         y="183.29292"
+         style="font-size:40px;text-align:center;text-anchor:middle"
+         id="tspan3189">Сите сме заедно</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="287.63013"
+       y="706.51654"
+       id="text3897"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="287.63013"
+         y="706.51654"
+         id="tspan3183">Политички</tspan><tspan
+         sodipodi:role="line"
+         x="287.63013"
+         y="746.51654"
+         id="tspan17181">неутрален</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3050"
+       sodipodi:cx="340.42142"
+       sodipodi:cy="562.43817"
+       sodipodi:rx="259.60919"
+       sodipodi:ry="259.60919"
+       d="m 600.03061,562.43817 a 259.60919,259.60919 0 1 1 -519.218385,0 259.60919,259.60919 0 1 1 519.218385,0 z"
+       transform="matrix(0.68837445,0,0,0.70000672,40.120868,65.554092)" />
+    <path
+       transform="matrix(0.68837445,0,0,0.70000672,235.61921,65.554092)"
+       d="m 600.03061,562.43817 a 259.60919,259.60919 0 1 1 -519.218385,0 259.60919,259.60919 0 1 1 519.218385,0 z"
+       sodipodi:ry="259.60919"
+       sodipodi:rx="259.60919"
+       sodipodi:cy="562.43817"
+       sodipodi:cx="340.42142"
+       id="path3200"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3050-3"
+       sodipodi:cx="340.42142"
+       sodipodi:cy="562.43817"
+       sodipodi:rx="259.60919"
+       sodipodi:ry="259.60919"
+       d="m 600.03061,562.43817 a 259.60919,259.60919 0 1 1 -519.218385,0 259.60919,259.60919 0 1 1 519.218385,0 z"
+       transform="matrix(0.68837445,0,0,0.70000672,135.79759,243.9539)" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:2.77666497000000012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter17169);opacity:0.92999999"
+       d="m 368.135,457.93003 c -28.0712,0 -54.61299,6.58403 -78.25,18.3125 4.60936,57.41981 35.4273,107.27479 80.3125,137.15625 44.36593,-29.52646 75.01987,-78.5535 80.1875,-135.125 -24.61695,-12.99818 -52.59591,-20.34375 -82.25,-20.34375 z"
+       id="path3050-9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.11579752;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Lend)"
+       d="M 391.21996,531.15088 138.83294,820.73522"
+       id="path5971"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="364.09732"
+       y="857.95013"
+       id="text6417"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6419"
+         x="364.09732"
+         y="857.95013"
+         style="font-size:36px;text-align:center;text-anchor:middle">Античко-македонски-словен-</tspan><tspan
+         sodipodi:role="line"
+         x="364.09732"
+         y="902.95013"
+         style="font-size:36px;text-align:center;text-anchor:middle"
+         id="tspan17177">-илир-албанец.</tspan><tspan
+         sodipodi:role="line"
+         x="364.09732"
+         y="947.95013"
+         style="font-size:36px;text-align:center;text-anchor:middle"
+         id="tspan17173">Жител на Р. Македонија.</tspan><tspan
+         sodipodi:role="line"
+         x="364.09732"
+         y="992.95013"
+         style="font-size:36px;text-align:center;text-anchor:middle"
+         id="tspan17175" /><tspan
+         sodipodi:role="line"
+         x="364.09732"
+         y="1037.9502"
+         style="font-size:36px;text-align:center;text-anchor:middle"
+         id="tspan3191" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-246.07961"
+       y="446.61557"
+       id="text3897-0"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.71360193,-0.70055142,0.70055142,0.71360193,0,0)"><tspan
+         sodipodi:role="line"
+         x="-246.07961"
+         y="446.61557"
+         id="tspan3212-6">Сиромашен</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="503.43375"
+       y="-327.93814"
+       id="text3897-7"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.36937189,0.92928166,-0.92928166,0.36937189,0,0)"><tspan
+         sodipodi:role="line"
+         x="503.43375"
+         y="-327.93814"
+         id="tspan3181">Необразован</tspan></text>
   </g>
 </svg>
